@@ -1,0 +1,7 @@
+j2cube:
+  datasource:
+    postgres:
+      className: 34
+      url: 43
+      username: 23
+      password: 12
